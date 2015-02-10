@@ -1,0 +1,11 @@
+{
+  "name": "webfont-list",
+  "version": "0.1.0",
+  "description": "A missing machine-readable webfont list",
+  "author": "Taro Hanamura <m@hanamurataro.com> (http://hanamurataro.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "casperjs": "1.1.0-beta3",
+    "phantomjs": "1.9.15"
+  }
+}
