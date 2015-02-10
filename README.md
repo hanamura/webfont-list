@@ -7,5 +7,6 @@ A missing machine-readable webfont list.
 Scraping TypeSquare webfont list:
 
 ```sh
+npm install
 npm run get-typesquare --silent -- --email=[typesquare account email] --password=[typesquare account password] > output.json
 ```
