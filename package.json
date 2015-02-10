@@ -7,5 +7,8 @@
   "devDependencies": {
     "casperjs": "1.1.0-beta3",
     "phantomjs": "1.9.15"
+  },
+  "scripts": {
+    "get-typesquare": "casperjs script/typesquare.js"
   }
 }
