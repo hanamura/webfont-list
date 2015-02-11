@@ -13,5 +13,13 @@
     "typesquare": "./bin/typesquare",
     "fontplus": "./bin/fontplus"
   },
-  "main": "index.js"
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanamura/webfont-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hanamura/webfont-list/issues"
+  },
+  "homepage": "https://github.com/hanamura/webfont-list"
 }
