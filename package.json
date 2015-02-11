@@ -10,6 +10,7 @@
     "yargs": "2.3.0"
   },
   "bin": {
-    "typesquare": "./bin/typesquare"
+    "typesquare": "./bin/typesquare",
+    "fontplus": "./bin/fontplus"
   }
 }

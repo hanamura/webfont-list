@@ -1,0 +1,39 @@
+#!/usr/bin/env node
+
+var argv = require('yargs')
+  .options('e', {
+    alias: 'email',
+    required: true,
+    describe: 'FONTPLUS account email address',
+  })
+  .options('p', {
+    alias: 'password',
+    required: true,
+    describe: 'FONTPLUS account password',
+  })
+  .options('v', {
+    alias: 'verbose',
+    describe: 'Verbose output',
+    type: 'boolean',
+  })
+  .argv;
+
+var logger = require('log4js').getLogger('fontplus');
+
+if (argv.verbose) {
+  logger.setLevel('INFO');
+} else {
+  logger.setLevel('ERROR');
+}
+
+var fontplus = require('../script/fontplus');
+
+fontplus(argv.email, argv.password, null, function(err, fontProps) {
+  if (err) {
+    process.stderr.write(err.message + "\n");
+    process.exit(1);
+  } else {
+    console.log(JSON.stringify(fontProps, null, "\t"));
+    process.exit();
+  }
+});
