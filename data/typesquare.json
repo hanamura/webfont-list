@@ -1,4515 +1,4515 @@
 [
 	{
+		"fontName": "リュウミン L-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン L-KL",
 			"Ryumin Light KL"
-		],
-		"fontName": "リュウミン L-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン R-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン R-KL",
 			"Ryumin Regular KL"
-		],
-		"fontName": "リュウミン R-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン M-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン M-KL",
 			"Ryumin Medium KL"
-		],
-		"fontName": "リュウミン M-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン B-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン B-KL",
 			"Ryumin Bold KL"
-		],
-		"fontName": "リュウミン B-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン EB-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン EB-KL",
 			"Ryumin ExtraBold KL"
-		],
-		"fontName": "リュウミン EB-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン H-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン H-KL",
 			"Ryumin Heavy KL"
-		],
-		"fontName": "リュウミン H-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン EH-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン EH-KL",
 			"Ryumin ExtraHeavy KL"
-		],
-		"fontName": "リュウミン EH-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン U-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン U-KL",
 			"Ryumin Ultra KL"
-		],
-		"fontName": "リュウミン U-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン L",
 			"Reimin Light"
-		],
-		"fontName": "黎ミン L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン R",
 			"Reimin Regular"
-		],
-		"fontName": "黎ミン R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン M",
 			"Reimin Medium"
-		],
-		"fontName": "黎ミン M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン B",
 			"Reimin Bold"
-		],
-		"fontName": "黎ミン B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン EB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン EB",
 			"Reimin ExtraBold"
-		],
-		"fontName": "黎ミン EB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン H",
 			"Reimin Heavy"
-		],
-		"fontName": "黎ミン H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン EH",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン EH",
 			"Reimin ExtraHeavy"
-		],
-		"fontName": "黎ミン EH",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン U",
 			"Reimin Ultra"
-		],
-		"fontName": "黎ミン U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 L",
 			"Reimin Y10 Light"
-		],
-		"fontName": "黎ミンY10 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 R",
 			"Reimin Y10 Regular"
-		],
-		"fontName": "黎ミンY10 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 M",
 			"Reimin Y10 Medium"
-		],
-		"fontName": "黎ミンY10 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 B",
 			"Reimin Y10 Bold"
-		],
-		"fontName": "黎ミンY10 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 EB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 EB",
 			"Reimin Y10 ExtraBold"
-		],
-		"fontName": "黎ミンY10 EB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 H",
 			"Reimin Y10 Heavy"
-		],
-		"fontName": "黎ミンY10 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 EH",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 EH",
 			"Reimin Y10 ExtraHeavy"
-		],
-		"fontName": "黎ミンY10 EH",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 U",
 			"Reimin Y10 Ultra"
-		],
-		"fontName": "黎ミンY10 U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 R",
 			"Reimin Y20 Regular"
-		],
-		"fontName": "黎ミンY20 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 M",
 			"Reimin Y20 Medium"
-		],
-		"fontName": "黎ミンY20 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 B",
 			"Reimin Y20 Bold"
-		],
-		"fontName": "黎ミンY20 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 EB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 EB",
 			"Reimin Y20 ExtraBold"
-		],
-		"fontName": "黎ミンY20 EB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 H",
 			"Reimin Y20 Heavy"
-		],
-		"fontName": "黎ミンY20 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 EH",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 EH",
 			"Reimin Y20 ExtraHeavy"
-		],
-		"fontName": "黎ミンY20 EH",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 U",
 			"Reimin Y20 Ultra"
-		],
-		"fontName": "黎ミンY20 U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 M",
 			"Reimin Y30 Medium"
-		],
-		"fontName": "黎ミンY30 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 B",
 			"Reimin Y30 Bold"
-		],
-		"fontName": "黎ミンY30 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 EB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 EB",
 			"Reimin Y30 ExtraBold"
-		],
-		"fontName": "黎ミンY30 EB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 H",
 			"Reimin Y30 Heavy"
-		],
-		"fontName": "黎ミンY30 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 EH",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 EH",
 			"Reimin Y30 ExtraHeavy"
-		],
-		"fontName": "黎ミンY30 EH",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 U",
 			"Reimin Y30 Ultra"
-		],
-		"fontName": "黎ミンY30 U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY40 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY40 B",
 			"Reimin Y40 Bold"
-		],
-		"fontName": "黎ミンY40 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY40 EB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY40 EB",
 			"Reimin Y40 ExtraBold"
-		],
-		"fontName": "黎ミンY40 EB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY40 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY40 H",
 			"Reimin Y40 Heavy"
-		],
-		"fontName": "黎ミンY40 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY40 EH",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY40 EH",
 			"Reimin Y40 ExtraHeavy"
-		],
-		"fontName": "黎ミンY40 EH",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY40 U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY40 U",
 			"Reimin Y40 Ultra"
-		],
-		"fontName": "黎ミンY40 U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "太ミンA101",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"太ミンA101",
 			"Futo Min A101"
-		],
-		"fontName": "太ミンA101",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "見出ミンMA1",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"見出ミンMA1",
 			"Midashi Min MA1"
-		],
-		"fontName": "見出ミンMA1",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "見出ミンMA31",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"見出ミンMA31",
 			"Midashi Min MA31"
-		],
-		"fontName": "見出ミンMA31",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英明朝 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英明朝 L",
 			"Shuei Mincho L"
-		],
-		"fontName": "秀英明朝 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英明朝 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英明朝 M",
 			"Shuei Mincho M"
-		],
-		"fontName": "秀英明朝 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英明朝 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英明朝 B",
 			"Shuei Mincho B"
-		],
-		"fontName": "秀英明朝 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英初号明朝",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英初号明朝",
 			"Shuei ShogoMincho"
-		],
-		"fontName": "秀英初号明朝",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英初号明朝 撰",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英初号明朝 撰",
 			"Shuei ShogoMincho Sen"
-		],
-		"fontName": "秀英初号明朝 撰",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英横太明朝 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英横太明朝 M",
 			"Shuei Yokobuto Min M"
-		],
-		"fontName": "秀英横太明朝 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英横太明朝 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英横太明朝 B",
 			"Shuei Yokobuto Min B"
-		],
-		"fontName": "秀英横太明朝 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "凸版文久明朝 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"凸版文久明朝 R",
 			"Toppan Bunkyu Mincho R"
-		],
-		"fontName": "凸版文久明朝 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "光朝",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"光朝",
 			"Kocho"
-		],
-		"fontName": "光朝",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "A1明朝",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"A1明朝",
 			"A1 Mincho"
-		],
-		"fontName": "A1明朝",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン L-KL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン L-KL JIS2004",
 			"Ryumin Light KL JIS2004"
-		],
-		"fontName": "リュウミン L-KL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン R-KL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン R-KL JIS2004",
 			"Ryumin Regular KL JIS2004"
-		],
-		"fontName": "リュウミン R-KL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン M-KL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン M-KL JIS2004",
 			"Ryumin Medium KL JIS2004"
-		],
-		"fontName": "リュウミン M-KL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン B-KL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン B-KL JIS2004",
 			"Ryumin Bold KL JIS2004"
-		],
-		"fontName": "リュウミン B-KL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン EB-KL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン EB-KL JIS2004",
 			"Ryumin ExtraBold KL JIS2004"
-		],
-		"fontName": "リュウミン EB-KL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン H-KL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン H-KL JIS2004",
 			"Ryumin Heavy KL JIS2004"
-		],
-		"fontName": "リュウミン H-KL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン EH-KL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン EH-KL JIS2004",
 			"Ryumin ExtraHeavy KL JIS2004"
-		],
-		"fontName": "リュウミン EH-KL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "リュウミン U-KL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"リュウミン U-KL JIS2004",
 			"Ryumin Ultra KL JIS2004"
-		],
-		"fontName": "リュウミン U-KL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン L JIS2004",
 			"Reimin Light JIS2004"
-		],
-		"fontName": "黎ミン L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン R JIS2004",
 			"Reimin Regular JIS2004"
-		],
-		"fontName": "黎ミン R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン M JIS2004",
 			"Reimin Medium JIS2004"
-		],
-		"fontName": "黎ミン M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン B JIS2004",
 			"Reimin Bold JIS2004"
-		],
-		"fontName": "黎ミン B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン EB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン EB JIS2004",
 			"Reimin ExtraBold JIS2004"
-		],
-		"fontName": "黎ミン EB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン H JIS2004",
 			"Reimin Heavy JIS2004"
-		],
-		"fontName": "黎ミン H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン EH JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン EH JIS2004",
 			"Reimin ExtraHeavy JIS2004"
-		],
-		"fontName": "黎ミン EH JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミン U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミン U JIS2004",
 			"Reimin Ultra JIS2004"
-		],
-		"fontName": "黎ミン U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 L JIS2004",
 			"Reimin Y10 Light JIS2004"
-		],
-		"fontName": "黎ミンY10 L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 R JIS2004",
 			"Reimin Y10 Regular JIS2004"
-		],
-		"fontName": "黎ミンY10 R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 M JIS2004",
 			"Reimin Y10 Medium JIS2004"
-		],
-		"fontName": "黎ミンY10 M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 B JIS2004",
 			"Reimin Y10 Bold JIS2004"
-		],
-		"fontName": "黎ミンY10 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 EB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 EB JIS2004",
 			"Reimin Y10 ExtraBold JIS2004"
-		],
-		"fontName": "黎ミンY10 EB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 H JIS2004",
 			"Reimin Y10 Heavy JIS2004"
-		],
-		"fontName": "黎ミンY10 H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 EH JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 EH JIS2004",
 			"Reimin Y10 ExtraHeavy JIS2004"
-		],
-		"fontName": "黎ミンY10 EH JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY10 U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY10 U JIS2004",
 			"Reimin Y10 Ultra JIS2004"
-		],
-		"fontName": "黎ミンY10 U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 R JIS2004",
 			"Reimin Y20 Regular JIS2004"
-		],
-		"fontName": "黎ミンY20 R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 M JIS2004",
 			"Reimin Y20 Medium JIS2004"
-		],
-		"fontName": "黎ミンY20 M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 B JIS2004",
 			"Reimin Y20 Bold JIS2004"
-		],
-		"fontName": "黎ミンY20 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 EB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 EB JIS2004",
 			"Reimin Y20 ExtraBold JIS2004"
-		],
-		"fontName": "黎ミンY20 EB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 H JIS2004",
 			"Reimin Y20 Heavy JIS2004"
-		],
-		"fontName": "黎ミンY20 H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 EH JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 EH JIS2004",
 			"Reimin Y20 ExtraHeavy JIS2004"
-		],
-		"fontName": "黎ミンY20 EH JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY20 U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY20 U JIS2004",
 			"Reimin Y20 Ultra JIS2004"
-		],
-		"fontName": "黎ミンY20 U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 M JIS2004",
 			"Reimin Y30 Medium JIS2004"
-		],
-		"fontName": "黎ミンY30 M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 B JIS2004",
 			"Reimin Y30 Bold JIS2004"
-		],
-		"fontName": "黎ミンY30 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 EB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 EB JIS2004",
 			"Reimin Y30 ExtraBold JIS2004"
-		],
-		"fontName": "黎ミンY30 EB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 H JIS2004",
 			"Reimin Y30 Heavy JIS2004"
-		],
-		"fontName": "黎ミンY30 H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 EH JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 EH JIS2004",
 			"Reimin Y30 ExtraHeavy JIS2004"
-		],
-		"fontName": "黎ミンY30 EH JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY30 U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY30 U JIS2004",
 			"Reimin Y30 Ultra JIS2004"
-		],
-		"fontName": "黎ミンY30 U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY40 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY40 B JIS2004",
 			"Reimin Y40 Bold JIS2004"
-		],
-		"fontName": "黎ミンY40 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY40 EB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY40 EB JIS2004",
 			"Reimin Y40 ExtraBold JIS2004"
-		],
-		"fontName": "黎ミンY40 EB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY40 H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY40 H JIS2004",
 			"Reimin Y40 Heavy JIS2004"
-		],
-		"fontName": "黎ミンY40 H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY40 EH JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY40 EH JIS2004",
 			"Reimin Y40 ExtraHeavy JIS2004"
-		],
-		"fontName": "黎ミンY40 EH JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "黎ミンY40 U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"黎ミンY40 U JIS2004",
 			"Reimin Y40 Ultra JIS2004"
-		],
-		"fontName": "黎ミンY40 U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "太ミンA101 JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"太ミンA101 JIS2004",
 			"Futo Min A101 JIS2004"
-		],
-		"fontName": "太ミンA101 JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "見出ミンMA31 JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"見出ミンMA31 JIS2004",
 			"Midashi Min MA31 JIS2004"
-		],
-		"fontName": "見出ミンMA31 JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英明朝 L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英明朝 L JIS2004",
 			"Shuei Mincho L JIS2004"
-		],
-		"fontName": "秀英明朝 L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英明朝 M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英明朝 M JIS2004",
 			"Shuei Mincho M JIS2004"
-		],
-		"fontName": "秀英明朝 M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英明朝 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英明朝 B JIS2004",
 			"Shuei Mincho B JIS2004"
-		],
-		"fontName": "秀英明朝 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "凸版文久明朝 R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"凸版文久明朝 R JIS2004",
 			"Toppan Bunkyu Mincho R JIS2004"
-		],
-		"fontName": "凸版文久明朝 R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ EL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ EL",
 			"Shin Go ExLight"
-		],
-		"fontName": "新ゴ EL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ L",
 			"Shin Go Light"
-		],
-		"fontName": "新ゴ L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ R",
 			"Shin Go Regular"
-		],
-		"fontName": "新ゴ R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ M",
 			"Shin Go Medium"
-		],
-		"fontName": "新ゴ M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ DB",
 			"Shin Go DeBold"
-		],
-		"fontName": "新ゴ DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ B",
 			"Shin Go Bold"
-		],
-		"fontName": "新ゴ B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ H",
 			"Shin Go Heavy"
-		],
-		"fontName": "新ゴ H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ U",
 			"Shin Go Ultra"
-		],
-		"fontName": "新ゴ U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 L",
 			"Gothic MB101 Light"
-		],
-		"fontName": "ゴシックMB101 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 R",
 			"Gothic MB101 Regular"
-		],
-		"fontName": "ゴシックMB101 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 M",
 			"Gothic MB101 Medium"
-		],
-		"fontName": "ゴシックMB101 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 DB",
 			"Gothic MB101 DemiBold"
-		],
-		"fontName": "ゴシックMB101 DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 B",
 			"Gothic MB101 Bold"
-		],
-		"fontName": "ゴシックMB101 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 H",
 			"Gothic MB101 Heavy"
-		],
-		"fontName": "ゴシックMB101 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 U",
 			"Gothic MB101 Ultra"
-		],
-		"fontName": "ゴシックMB101 U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "中ゴシックBBB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"中ゴシックBBB",
 			"Gothic Medium BBB"
-		],
-		"fontName": "中ゴシックBBB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "太ゴB101",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"太ゴB101",
 			"Futo Go B101"
-		],
-		"fontName": "太ゴB101",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "見出ゴMB1",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"見出ゴMB1",
 			"Midashi Go MB1"
-		],
-		"fontName": "見出ゴMB1",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "見出ゴMB31",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"見出ゴMB31",
 			"Midashi Go MB31"
-		],
-		"fontName": "見出ゴMB31",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英角ゴシック金 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英角ゴシック金 L",
 			"Shuei KakuGo Kin L"
-		],
-		"fontName": "秀英角ゴシック金 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英角ゴシック金 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英角ゴシック金 B",
 			"Shuei KakuGo Kin B"
-		],
-		"fontName": "秀英角ゴシック金 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英角ゴシック銀 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英角ゴシック銀 L",
 			"Shuei KakuGo Gin L"
-		],
-		"fontName": "秀英角ゴシック銀 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英角ゴシック銀 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英角ゴシック銀 B",
 			"Shuei KakuGo Gin B"
-		],
-		"fontName": "秀英角ゴシック銀 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ EL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ EL JIS2004",
 			"Shin Go ExLight JIS2004"
-		],
-		"fontName": "新ゴ EL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ L JIS2004",
 			"Shin Go Light JIS2004"
-		],
-		"fontName": "新ゴ L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ R JIS2004",
 			"Shin Go Regular JIS2004"
-		],
-		"fontName": "新ゴ R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ M JIS2004",
 			"Shin Go Medium JIS2004"
-		],
-		"fontName": "新ゴ M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ DB JIS2004",
 			"Shin Go DeBold JIS2004"
-		],
-		"fontName": "新ゴ DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ B JIS2004",
 			"Shin Go Bold JIS2004"
-		],
-		"fontName": "新ゴ B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ H JIS2004",
 			"Shin Go Heavy JIS2004"
-		],
-		"fontName": "新ゴ H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ U JIS2004",
 			"Shin Go Ultra JIS2004"
-		],
-		"fontName": "新ゴ U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 L JIS2004",
 			"Gothic MB101 Light JIS2004"
-		],
-		"fontName": "ゴシックMB101 L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 R JIS2004",
 			"Gothic MB101 Regular JIS2004"
-		],
-		"fontName": "ゴシックMB101 R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 M JIS2004",
 			"Gothic MB101 Medium JIS2004"
-		],
-		"fontName": "ゴシックMB101 M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 DB JIS2004",
 			"Gothic MB101 DemiBold JIS2004"
-		],
-		"fontName": "ゴシックMB101 DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 B JIS2004",
 			"Gothic MB101 Bold JIS2004"
-		],
-		"fontName": "ゴシックMB101 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 H JIS2004",
 			"Gothic MB101 Heavy JIS2004"
-		],
-		"fontName": "ゴシックMB101 H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ゴシックMB101 U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ゴシックMB101 U JIS2004",
 			"Gothic MB101 Ultra JIS2004"
-		],
-		"fontName": "ゴシックMB101 U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "中ゴシックBBB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"中ゴシックBBB JIS2004",
 			"Gothic Medium BBB JIS2004"
-		],
-		"fontName": "中ゴシックBBB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "太ゴB101 JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"太ゴB101 JIS2004",
 			"Futo Go B101 JIS2004"
-		],
-		"fontName": "太ゴB101 JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "見出ゴMB31 JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"見出ゴMB31 JIS2004",
 			"Midashi Go MB31 JIS2004"
-		],
-		"fontName": "見出ゴMB31 JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "じゅん 101",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"じゅん 101",
 			"Jun 101"
-		],
-		"fontName": "じゅん 101",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "じゅん 201",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"じゅん 201",
 			"Jun 201"
-		],
-		"fontName": "じゅん 201",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "じゅん 34",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"じゅん 34",
 			"Jun 34"
-		],
-		"fontName": "じゅん 34",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "じゅん 501",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"じゅん 501",
 			"Jun 501"
-		],
-		"fontName": "じゅん 501",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ L",
 			"Shin Maru Go Light"
-		],
-		"fontName": "新丸ゴ L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ R",
 			"Shin Maru Go Regular"
-		],
-		"fontName": "新丸ゴ R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ M",
 			"Shin Maru Go Medium"
-		],
-		"fontName": "新丸ゴ M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ DB",
 			"Shin Maru Go DemiBold"
-		],
-		"fontName": "新丸ゴ DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ B",
 			"Shin Maru Go Bold"
-		],
-		"fontName": "新丸ゴ B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ H",
 			"Shin Maru Go Heavy"
-		],
-		"fontName": "新丸ゴ H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ U",
 			"Shin Maru Go Ultra"
-		],
-		"fontName": "新丸ゴ U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ソフトゴシック L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ソフトゴシック L",
 			"Soft Gothic Light"
-		],
-		"fontName": "ソフトゴシック L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ソフトゴシック R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ソフトゴシック R",
 			"Soft Gothic Regular"
-		],
-		"fontName": "ソフトゴシック R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ソフトゴシック M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ソフトゴシック M",
 			"Soft Gothic Medium"
-		],
-		"fontName": "ソフトゴシック M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ソフトゴシック DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ソフトゴシック DB",
 			"Soft Gothic DemiBold"
-		],
-		"fontName": "ソフトゴシック DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ソフトゴシック B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ソフトゴシック B",
 			"Soft Gothic Bold"
-		],
-		"fontName": "ソフトゴシック B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ソフトゴシック H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ソフトゴシック H",
 			"Soft Gothic Heavy"
-		],
-		"fontName": "ソフトゴシック H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ソフトゴシック U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ソフトゴシック U",
 			"Soft Gothic Ultra"
-		],
-		"fontName": "ソフトゴシック U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英丸ゴシック L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英丸ゴシック L",
 			"Shuei MaruGo L"
-		],
-		"fontName": "秀英丸ゴシック L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "秀英丸ゴシック B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"秀英丸ゴシック B",
 			"Shuei MaruGo B"
-		],
-		"fontName": "秀英丸ゴシック B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ L JIS2004",
 			"Shin Maru Go Light JIS2004"
-		],
-		"fontName": "新丸ゴ L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ R JIS2004",
 			"Shin Maru Go Regular JIS2004"
-		],
-		"fontName": "新丸ゴ R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ M JIS2004",
 			"Shin Maru Go Medium JIS2004"
-		],
-		"fontName": "新丸ゴ M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ DB JIS2004",
 			"Shin Maru Go DemiBold JIS2004"
-		],
-		"fontName": "新丸ゴ DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ B JIS2004",
 			"Shin Maru Go Bold JIS2004"
-		],
-		"fontName": "新丸ゴ B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ H JIS2004",
 			"Shin Maru Go Heavy JIS2004"
-		],
-		"fontName": "新丸ゴ H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ U JIS2004",
 			"Shin Maru Go Ultra JIS2004"
-		],
-		"fontName": "新丸ゴ U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "フォーク R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"フォーク R",
 			"Folk Regular"
-		],
-		"fontName": "フォーク R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "フォーク M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"フォーク M",
 			"Folk Medium"
-		],
-		"fontName": "フォーク M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "フォーク B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"フォーク B",
 			"Folk Bold"
-		],
-		"fontName": "フォーク B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "フォーク H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"フォーク H",
 			"Folk Heavy"
-		],
-		"fontName": "フォーク H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "丸フォーク R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"丸フォーク R",
 			"Maru Folk Regular"
-		],
-		"fontName": "丸フォーク R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "丸フォーク M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"丸フォーク M",
 			"Maru Folk Medium"
-		],
-		"fontName": "丸フォーク M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "丸フォーク B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"丸フォーク B",
 			"Maru Folk Bold"
-		],
-		"fontName": "丸フォーク B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "丸フォーク H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"丸フォーク H",
 			"Maru Folk Heavy"
-		],
-		"fontName": "丸フォーク H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "カクミン R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"カクミン R",
 			"Kakumin Regular"
-		],
-		"fontName": "カクミン R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "カクミン M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"カクミン M",
 			"Kakumin Medium"
-		],
-		"fontName": "カクミン M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "カクミン B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"カクミン B",
 			"Kakumin Bold"
-		],
-		"fontName": "カクミン B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "カクミン H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"カクミン H",
 			"Kakumin Heavy"
-		],
-		"fontName": "カクミン H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "解ミン 宙 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"解ミン 宙 R",
 			"Kaimin Sora Regular"
-		],
-		"fontName": "解ミン 宙 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "解ミン 宙 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"解ミン 宙 M",
 			"Kaimin Sora Medium"
-		],
-		"fontName": "解ミン 宙 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "解ミン 宙 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"解ミン 宙 B",
 			"Kaimin Sora Bold"
-		],
-		"fontName": "解ミン 宙 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "解ミン 宙 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"解ミン 宙 H",
 			"Kaimin Sora Heavy"
-		],
-		"fontName": "解ミン 宙 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "解ミン 月 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"解ミン 月 R",
 			"Kaimin Tsuki Regular"
-		],
-		"fontName": "解ミン 月 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "解ミン 月 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"解ミン 月 M",
 			"Kaimin Tsuki Medium"
-		],
-		"fontName": "解ミン 月 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "解ミン 月 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"解ミン 月 B",
 			"Kaimin Tsuki Bold"
-		],
-		"fontName": "解ミン 月 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "解ミン 月 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"解ミン 月 H",
 			"Kaimin Tsuki Heavy"
-		],
-		"fontName": "解ミン 月 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "モアリア R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"モアリア R",
 			"Moaria Regular"
-		],
-		"fontName": "モアリア R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "モアリア B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"モアリア B",
 			"Moaria Bold"
-		],
-		"fontName": "モアリア B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "シネマレター",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"シネマレター",
 			"Cinema Letter"
-		],
-		"fontName": "シネマレター",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "トーキング",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"トーキング",
 			"Talking"
-		],
-		"fontName": "トーキング",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "タカモダン",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"タカモダン",
 			"Takamodern"
-		],
-		"fontName": "タカモダン",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "竹 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"竹 L",
 			"Take Light"
-		],
-		"fontName": "竹 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "竹 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"竹 M",
 			"Take Medium"
-		],
-		"fontName": "竹 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "竹 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"竹 B",
 			"Take Bold"
-		],
-		"fontName": "竹 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "竹 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"竹 H",
 			"Take Heavy"
-		],
-		"fontName": "竹 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "トンネル 細線(Tightline)",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"トンネル 細線",
 			"Tunnel Tightline"
-		],
-		"fontName": "トンネル 細線(Tightline)",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "トンネル 太線(Wideline)",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"トンネル 太線",
 			"Tunnel Wideline"
-		],
-		"fontName": "トンネル 太線(Wideline)",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "明石",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"明石",
 			"Akashi"
-		],
-		"fontName": "明石",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "徐明",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"徐明",
 			"Jomin"
-		],
-		"fontName": "徐明",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "那欽",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"那欽",
 			"Nachin"
-		],
-		"fontName": "那欽",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "くもやじ",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"くもやじ",
 			"Kumoyaji"
-		],
-		"fontName": "くもやじ",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ハルクラフト",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ハルクラフト",
 			"Harucraft"
-		],
-		"fontName": "ハルクラフト",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "プリティー桃",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"プリティー桃",
 			"Pretty Momo"
-		],
-		"fontName": "プリティー桃",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "はるひ学園",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"はるひ学園",
 			"Haruhi Gakuen"
-		],
-		"fontName": "はるひ学園",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "すずむし",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"すずむし",
 			"Suzumushi"
-		],
-		"fontName": "すずむし",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ シャドウ",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ シャドウ",
 			"Shin Go Shadow"
-		],
-		"fontName": "新ゴ シャドウ",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ エンボス",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ エンボス",
 			"Shin Go Emboss"
-		],
-		"fontName": "新ゴ エンボス",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ ライン",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ ライン",
 			"Shin Go Line"
-		],
-		"fontName": "新ゴ ライン",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新ゴ 太ライン",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新ゴ 太ライン",
 			"Shin Go Futoline"
-		],
-		"fontName": "新ゴ 太ライン",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ シャドウ",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ シャドウ",
 			"Shin Maru Go Shadow"
-		],
-		"fontName": "新丸ゴ シャドウ",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ エンボス",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ エンボス",
 			"Shin Maru Go Emboss"
-		],
-		"fontName": "新丸ゴ エンボス",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ ライン",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ ライン",
 			"Shin Maru Go Line"
-		],
-		"fontName": "新丸ゴ ライン",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新丸ゴ 太ライン",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新丸ゴ 太ライン",
 			"Shin Maru Go Futoline"
-		],
-		"fontName": "新丸ゴ 太ライン",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "正楷書CB1",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"正楷書CB1",
 			"Sei Kaisho CB1"
-		],
-		"fontName": "正楷書CB1",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "新正楷書CBSK1",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"新正楷書CBSK1",
 			"Shinsei Kaisho CBSK1"
-		],
-		"fontName": "新正楷書CBSK1",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "欧体楷書",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"欧体楷書",
 			"Outai Kaisho"
-		],
-		"fontName": "欧体楷書",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "楷書MCBK1",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"楷書MCBK1",
 			"Kaisho MCBK1"
-		],
-		"fontName": "楷書MCBK1",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "教科書ICA L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"教科書ICA L",
 			"Kyoukasho ICA Light"
-		],
-		"fontName": "教科書ICA L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "教科書ICA R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"教科書ICA R",
 			"Kyoukasho ICA Regular"
-		],
-		"fontName": "教科書ICA R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "教科書ICA M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"教科書ICA M",
 			"Kyoukasho ICA Medium"
-		],
-		"fontName": "教科書ICA M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "角新行書 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"角新行書 L",
 			"Kakushin Gyousho Light"
-		],
-		"fontName": "角新行書 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "角新行書 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"角新行書 M",
 			"Kakushin Gyousho Medium"
-		],
-		"fontName": "角新行書 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "隷書E1",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"隷書E1",
 			"Reisho E1"
-		],
-		"fontName": "隷書E1",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "隷書101",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"隷書101",
 			"Reisho 101"
-		],
-		"fontName": "隷書101",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "陸隷",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"陸隷",
 			"Likurei"
-		],
-		"fontName": "陸隷",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "勘亭流",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"勘亭流",
 			"Kanteiryu"
-		],
-		"fontName": "勘亭流",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ひげ文字",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"ひげ文字",
 			"Higemoji"
-		],
-		"fontName": "ひげ文字",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン L",
 			"UD Reimin Light"
-		],
-		"fontName": "UD黎ミン L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン R",
 			"UD Reimin Regular"
-		],
-		"fontName": "UD黎ミン R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン M",
 			"UD Reimin Medium"
-		],
-		"fontName": "UD黎ミン M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン B",
 			"UD Reimin Bold"
-		],
-		"fontName": "UD黎ミン B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン EB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン EB",
 			"UD Reimin ExtraBold"
-		],
-		"fontName": "UD黎ミン EB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン H",
 			"UD Reimin Heavy"
-		],
-		"fontName": "UD黎ミン H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン L JIS2004",
 			"UD Reimin Light JIS2004"
-		],
-		"fontName": "UD黎ミン L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン R JIS2004",
 			"UD Reimin Regular JIS2004"
-		],
-		"fontName": "UD黎ミン R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン M JIS2004",
 			"UD Reimin Medium JIS2004"
-		],
-		"fontName": "UD黎ミン M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン B JIS2004",
 			"UD Reimin Bold JIS2004"
-		],
-		"fontName": "UD黎ミン B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン EB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン EB JIS2004",
 			"UD Reimin ExtraBold JIS2004"
-		],
-		"fontName": "UD黎ミン EB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD黎ミン H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD黎ミン H JIS2004",
 			"UD Reimin Heavy JIS2004"
-		],
-		"fontName": "UD黎ミン H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ L",
 			"UD Shin Go Light"
-		],
-		"fontName": "UD新ゴ L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ R",
 			"UD Shin Go Regular"
-		],
-		"fontName": "UD新ゴ R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ M",
 			"UD Shin Go Medium"
-		],
-		"fontName": "UD新ゴ M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ DB",
 			"UD Shin Go DemiBold"
-		],
-		"fontName": "UD新ゴ DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ B",
 			"UD Shin Go Bold"
-		],
-		"fontName": "UD新ゴ B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ H",
 			"UD Shin Go Heavy"
-		],
-		"fontName": "UD新ゴ H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT L",
 			"UD Shin Go NT Light"
-		],
-		"fontName": "UD新ゴNT L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT R",
 			"UD Shin Go NT Regular"
-		],
-		"fontName": "UD新ゴNT R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT M",
 			"UD Shin Go NT Medium"
-		],
-		"fontName": "UD新ゴNT M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT DB",
 			"UD Shin Go NT DemiBold"
-		],
-		"fontName": "UD新ゴNT DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT B",
 			"UD Shin Go NT Bold"
-		],
-		"fontName": "UD新ゴNT B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT H",
 			"UD Shin Go NT Heavy"
-		],
-		"fontName": "UD新ゴNT H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ L JIS2004",
 			"UD Shin Go Light JIS2004"
-		],
-		"fontName": "UD新ゴ L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ R JIS2004",
 			"UD Shin Go Regular JIS2004"
-		],
-		"fontName": "UD新ゴ R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ M JIS2004",
 			"UD Shin Go Medium JIS2004"
-		],
-		"fontName": "UD新ゴ M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ DB JIS2004",
 			"UD Shin Go DemiBold JIS2004"
-		],
-		"fontName": "UD新ゴ DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ B JIS2004",
 			"UD Shin Go Bold JIS2004"
-		],
-		"fontName": "UD新ゴ B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ H JIS2004",
 			"UD Shin Go Heavy JIS2004"
-		],
-		"fontName": "UD新ゴ H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT L JIS2004",
 			"UD Shin Go NT Light JIS2004"
-		],
-		"fontName": "UD新ゴNT L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT R JIS2004",
 			"UD Shin Go NT Regular JIS2004"
-		],
-		"fontName": "UD新ゴNT R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT M JIS2004",
 			"UD Shin Go NT Medium JIS2004"
-		],
-		"fontName": "UD新ゴNT M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT DB JIS2004",
 			"UD Shin Go NT DemiBold JIS2004"
-		],
-		"fontName": "UD新ゴNT DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT B JIS2004",
 			"UD Shin Go NT Bold JIS2004"
-		],
-		"fontName": "UD新ゴNT B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴNT H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴNT H JIS2004",
 			"UD Shin Go NT Heavy JIS2004"
-		],
-		"fontName": "UD新ゴNT H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ L",
 			"UD Shin Maru Go Light"
-		],
-		"fontName": "UD新丸ゴ L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ R",
 			"UD Shin Maru Go Regular"
-		],
-		"fontName": "UD新丸ゴ R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ M",
 			"UD Shin Maru Go Medium"
-		],
-		"fontName": "UD新丸ゴ M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ DB",
 			"UD Shin Maru Go DemiBold"
-		],
-		"fontName": "UD新丸ゴ DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ B",
 			"UD Shin Maru Go Bold"
-		],
-		"fontName": "UD新丸ゴ B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ H",
 			"UD Shin Maru Go Heavy"
-		],
-		"fontName": "UD新丸ゴ H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ L JIS2004",
 			"UD Shin Maru Go Light JIS2004"
-		],
-		"fontName": "UD新丸ゴ L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ R JIS2004",
 			"UD Shin Maru Go Regular JIS2004"
-		],
-		"fontName": "UD新丸ゴ R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ M JIS2004",
 			"UD Shin Maru Go Medium JIS2004"
-		],
-		"fontName": "UD新丸ゴ M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ DB JIS2004",
 			"UD Shin Maru Go DeBold JIS2004"
-		],
-		"fontName": "UD新丸ゴ DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ B JIS2004",
 			"UD Shin Maru Go Bold JIS2004"
-		],
-		"fontName": "UD新丸ゴ B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新丸ゴ H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新丸ゴ H JIS2004",
 			"UD Shin Maru Go Heavy JIS2004"
-		],
-		"fontName": "UD新丸ゴ H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 EL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 EL",
 			"UD Shin Go Conde90 EL"
-		],
-		"fontName": "UD新ゴ コンデンス90 EL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 L",
 			"UD Shin Go Conde90 L"
-		],
-		"fontName": "UD新ゴ コンデンス90 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 R",
 			"UD Shin Go Conde90 R"
-		],
-		"fontName": "UD新ゴ コンデンス90 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 M",
 			"UD Shin Go Conde90 M"
-		],
-		"fontName": "UD新ゴ コンデンス90 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 DB",
 			"UD Shin Go Conde90 DB"
-		],
-		"fontName": "UD新ゴ コンデンス90 DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 B",
 			"UD Shin Go Conde90 B"
-		],
-		"fontName": "UD新ゴ コンデンス90 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 H",
 			"UD Shin Go Conde90 H"
-		],
-		"fontName": "UD新ゴ コンデンス90 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 U",
 			"UD Shin Go Conde90 U"
-		],
-		"fontName": "UD新ゴ コンデンス90 U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 EL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 EL",
 			"UD Shin Go Conde80 EL"
-		],
-		"fontName": "UD新ゴ コンデンス80 EL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 L",
 			"UD Shin Go Conde80 L"
-		],
-		"fontName": "UD新ゴ コンデンス80 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 R",
 			"UD Shin Go Conde80 R"
-		],
-		"fontName": "UD新ゴ コンデンス80 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 M",
 			"UD Shin Go Conde80 M"
-		],
-		"fontName": "UD新ゴ コンデンス80 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 DB",
 			"UD Shin Go Conde80 DB"
-		],
-		"fontName": "UD新ゴ コンデンス80 DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 B",
 			"UD Shin Go Conde80 B"
-		],
-		"fontName": "UD新ゴ コンデンス80 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 H",
 			"UD Shin Go Conde80 H"
-		],
-		"fontName": "UD新ゴ コンデンス80 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 U",
 			"UD Shin Go Conde80 U"
-		],
-		"fontName": "UD新ゴ コンデンス80 U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 EL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 EL",
 			"UD Shin Go Conde70 EL"
-		],
-		"fontName": "UD新ゴ コンデンス70 EL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 L",
 			"UD Shin Go Conde70 L"
-		],
-		"fontName": "UD新ゴ コンデンス70 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 R",
 			"UD Shin Go Conde70 R"
-		],
-		"fontName": "UD新ゴ コンデンス70 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 M",
 			"UD Shin Go Conde70 M"
-		],
-		"fontName": "UD新ゴ コンデンス70 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 DB",
 			"UD Shin Go Conde70 DB"
-		],
-		"fontName": "UD新ゴ コンデンス70 DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 B",
 			"UD Shin Go Conde70 B"
-		],
-		"fontName": "UD新ゴ コンデンス70 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 H",
 			"UD Shin Go Conde70 H"
-		],
-		"fontName": "UD新ゴ コンデンス70 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 U",
 			"UD Shin Go Conde70 U"
-		],
-		"fontName": "UD新ゴ コンデンス70 U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 EL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 EL",
 			"UD Shin Go Conde60 EL"
-		],
-		"fontName": "UD新ゴ コンデンス60 EL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 L",
 			"UD Shin Go Conde60 L"
-		],
-		"fontName": "UD新ゴ コンデンス60 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 R",
 			"UD Shin Go Conde60 R"
-		],
-		"fontName": "UD新ゴ コンデンス60 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 M",
 			"UD Shin Go Conde60 M"
-		],
-		"fontName": "UD新ゴ コンデンス60 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 DB",
 			"UD Shin Go Conde60 DB"
-		],
-		"fontName": "UD新ゴ コンデンス60 DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 B",
 			"UD Shin Go Conde60 B"
-		],
-		"fontName": "UD新ゴ コンデンス60 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 H",
 			"UD Shin Go Conde60 H"
-		],
-		"fontName": "UD新ゴ コンデンス60 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 U",
 			"UD Shin Go Conde60 U"
-		],
-		"fontName": "UD新ゴ コンデンス60 U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 EL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 EL",
 			"UD Shin Go Conde50 EL"
-		],
-		"fontName": "UD新ゴ コンデンス50 EL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 L",
 			"UD Shin Go Conde50 L"
-		],
-		"fontName": "UD新ゴ コンデンス50 L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 R",
 			"UD Shin Go Conde50 R"
-		],
-		"fontName": "UD新ゴ コンデンス50 R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 M",
 			"UD Shin Go Conde50 M"
-		],
-		"fontName": "UD新ゴ コンデンス50 M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 DB",
 			"UD Shin Go Conde50 DB"
-		],
-		"fontName": "UD新ゴ コンデンス50 DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 B",
 			"UD Shin Go Conde50 B"
-		],
-		"fontName": "UD新ゴ コンデンス50 B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 H",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 H",
 			"UD Shin Go Conde50 H"
-		],
-		"fontName": "UD新ゴ コンデンス50 H",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 U",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 U",
 			"UD Shin Go Conde50 U"
-		],
-		"fontName": "UD新ゴ コンデンス50 U",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 EL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 EL JIS2004",
 			"UD Shin Go Conde90 EL JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス90 EL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 L JIS2004",
 			"UD Shin Go Conde90 L JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス90 L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 R JIS2004",
 			"UD Shin Go Conde90 R JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス90 R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 M JIS2004",
 			"UD Shin Go Conde90 M JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス90 M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 DB JIS2004",
 			"UD Shin Go Conde90 DB JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス90 DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 B JIS2004",
 			"UD Shin Go Conde90 B JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス90 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 H JIS2004",
 			"UD Shin Go Conde90 H JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス90 H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス90 U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス90 U JIS2004",
 			"UD Shin Go Conde90 U JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス90 U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 EL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 EL JIS2004",
 			"UD Shin Go Conde80 EL JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス80 EL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 L JIS2004",
 			"UD Shin Go Conde80 L JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス80 L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 R JIS2004",
 			"UD Shin Go Conde80 R JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス80 R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 M JIS2004",
 			"UD Shin Go Conde80 M JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス80 M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 DB JIS2004",
 			"UD Shin Go Conde80 DB JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス80 DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 B JIS2004",
 			"UD Shin Go Conde80 B JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス80 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 H JIS2004",
 			"UD Shin Go Conde80 H JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス80 H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス80 U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス80 U JIS2004",
 			"UD Shin Go Conde80 U JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス80 U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 EL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 EL JIS2004",
 			"UD Shin Go Conde70 EL JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス70 EL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 L JIS2004",
 			"UD Shin Go Conde70 L JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス70 L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 R JIS2004",
 			"UD Shin Go Conde70 R JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス70 R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 M JIS2004",
 			"UD Shin Go Conde70 M JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス70 M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 DB JIS2004",
 			"UD Shin Go Conde70 DB JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス70 DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 B JIS2004",
 			"UD Shin Go Conde70 B JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス70 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 H JIS2004",
 			"UD Shin Go Conde70 H JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス70 H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス70 U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス70 U JIS2004",
 			"UD Shin Go Conde70 U JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス70 U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 EL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 EL JIS2004",
 			"UD Shin Go Conde60 EL JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス60 EL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 L JIS2004",
 			"UD Shin Go Conde60 L JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス60 L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 R JIS2004",
 			"UD Shin Go Conde60 R JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス60 R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 M JIS2004",
 			"UD Shin Go Conde60 M JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス60 M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 DB JIS2004",
 			"UD Shin Go Conde60 DB JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス60 DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 B JIS2004",
 			"UD Shin Go Conde60 B JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス60 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 H JIS2004",
 			"UD Shin Go Conde60 H JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス60 H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス60 U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス60 U JIS2004",
 			"UD Shin Go Conde60 U JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス60 U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 EL JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 EL JIS2004",
 			"UD Shin Go Conde50 EL JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス50 EL JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 L JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 L JIS2004",
 			"UD Shin Go Conde50 L JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス50 L JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 R JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 R JIS2004",
 			"UD Shin Go Conde50 R JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス50 R JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 M JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 M JIS2004",
 			"UD Shin Go Conde50 M JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス50 M JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 DB JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 DB JIS2004",
 			"UD Shin Go Conde50 DB JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス50 DB JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 B JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 B JIS2004",
 			"UD Shin Go Conde50 B JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス50 B JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 H JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 H JIS2004",
 			"UD Shin Go Conde50 H JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス50 H JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ コンデンス50 U JIS2004",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ コンデンス50 U JIS2004",
 			"UD Shin Go Conde50 U JIS2004"
-		],
-		"fontName": "UD新ゴ コンデンス50 U JIS2004",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改リュウミン L-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改リュウミン L-KL",
 			"GJ Ryumin Light KL"
-		],
-		"fontName": "学参 常改リュウミン L-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改リュウミン R-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改リュウミン R-KL",
 			"GJ Ryumin Regular KL"
-		],
-		"fontName": "学参 常改リュウミン R-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改リュウミン M-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改リュウミン M-KL",
 			"GJ Ryumin Medium KL"
-		],
-		"fontName": "学参 常改リュウミン M-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改リュウミン B-KL",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改リュウミン B-KL",
 			"GJ Ryumin Bold KL"
-		],
-		"fontName": "学参 常改リュウミン B-KL",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改新ゴ L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改新ゴ L",
 			"GJ Shin Go Light"
-		],
-		"fontName": "学参 常改新ゴ L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改新ゴ R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改新ゴ R",
 			"GJ Shin Go Regular"
-		],
-		"fontName": "学参 常改新ゴ R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改新ゴ M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改新ゴ M",
 			"GJ Shin Go Medium"
-		],
-		"fontName": "学参 常改新ゴ M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改新ゴ DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改新ゴ DB",
 			"GJ Shin Go DemiBold"
-		],
-		"fontName": "学参 常改新ゴ DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改新ゴ B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改新ゴ B",
 			"GJ Shin Go Bold"
-		],
-		"fontName": "学参 常改新ゴ B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改中ゴシックBBB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改中ゴシックBBB",
 			"GJ Gothic Medium BBB"
-		],
-		"fontName": "学参 常改中ゴシックBBB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改太ゴB101",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改太ゴB101",
 			"GJ Futo Go B101"
-		],
-		"fontName": "学参 常改太ゴB101",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改じゅん 34",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改じゅん 34",
 			"GJ Jun 34"
-		],
-		"fontName": "学参 常改じゅん 34",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改じゅん 501",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改じゅん 501",
 			"GJ Jun 501"
-		],
-		"fontName": "学参 常改じゅん 501",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改新丸ゴ L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改新丸ゴ L",
 			"GJ Shin Maru Go Light"
-		],
-		"fontName": "学参 常改新丸ゴ L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改新丸ゴ R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改新丸ゴ R",
 			"GJ Shin Maru Go Regular"
-		],
-		"fontName": "学参 常改新丸ゴ R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改新丸ゴ M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改新丸ゴ M",
 			"GJ Shin Maru Go Medium"
-		],
-		"fontName": "学参 常改新丸ゴ M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改新丸ゴ DB",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改新丸ゴ DB",
 			"GJ Shin Maru Go DemiBold"
-		],
-		"fontName": "学参 常改新丸ゴ DB",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改新丸ゴ B",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改新丸ゴ B",
 			"GJ Shin Maru Go Bold"
-		],
-		"fontName": "学参 常改新丸ゴ B",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改教科書ICA L",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改教科書ICA L",
 			"GJ Kyoukasho ICA Light"
-		],
-		"fontName": "学参 常改教科書ICA L",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改教科書ICA R",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改教科書ICA R",
 			"GJ Kyoukasho ICA Regular"
-		],
-		"fontName": "学参 常改教科書ICA R",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "学参 常改教科書ICA M",
+		"language": "日本語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"学参 常改教科書ICA M",
 			"GJ Kyoukasho ICA Medium"
-		],
-		"fontName": "学参 常改教科書ICA M",
-		"foundry": "MORISAWA",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ ハングル EL",
+		"language": "韓国語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ ハングル EL",
 			"UD Shin Go Hangul ExtraLight"
-		],
-		"fontName": "UD新ゴ ハングル EL",
-		"foundry": "MORISAWA",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ ハングル L",
+		"language": "韓国語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ ハングル L",
 			"UD Shin Go Hangul Light"
-		],
-		"fontName": "UD新ゴ ハングル L",
-		"foundry": "MORISAWA",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ ハングル R",
+		"language": "韓国語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ ハングル R",
 			"UD Shin Go Hangul Regular"
-		],
-		"fontName": "UD新ゴ ハングル R",
-		"foundry": "MORISAWA",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ ハングル M",
+		"language": "韓国語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ ハングル M",
 			"UD Shin Go Hangul Medium"
-		],
-		"fontName": "UD新ゴ ハングル M",
-		"foundry": "MORISAWA",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ ハングル DB",
+		"language": "韓国語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ ハングル DB",
 			"UD Shin Go Hangul DemiBold"
-		],
-		"fontName": "UD新ゴ ハングル DB",
-		"foundry": "MORISAWA",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ ハングル B",
+		"language": "韓国語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ ハングル B",
 			"UD Shin Go Hangul Bold"
-		],
-		"fontName": "UD新ゴ ハングル B",
-		"foundry": "MORISAWA",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ ハングル H",
+		"language": "韓国語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ ハングル H",
 			"UD Shin Go Hangul Heavy"
-		],
-		"fontName": "UD新ゴ ハングル H",
-		"foundry": "MORISAWA",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "UD新ゴ ハングル U",
+		"language": "韓国語",
+		"foundry": "MORISAWA",
 		"cssNames": [
 			"UD新ゴ ハングル U",
 			"UD Shin Go Hangul Ultra"
-		],
-		"fontName": "UD新ゴ ハングル U",
-		"foundry": "MORISAWA",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "ヒラギノ明朝 W3 JIS2004",
+		"language": "日本語",
+		"foundry": "大日本スクリーン製造",
 		"cssNames": [
 			"ヒラギノ明朝 W3 JIS2004",
 			"Hiragino Mincho W3 JIS2004"
-		],
-		"fontName": "ヒラギノ明朝 W3 JIS2004",
-		"foundry": "大日本スクリーン製造",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ヒラギノ明朝 W6 JIS2004",
+		"language": "日本語",
+		"foundry": "大日本スクリーン製造",
 		"cssNames": [
 			"ヒラギノ明朝 W6 JIS2004",
 			"Hiragino Mincho W6 JIS2004"
-		],
-		"fontName": "ヒラギノ明朝 W6 JIS2004",
-		"foundry": "大日本スクリーン製造",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ヒラギノ角ゴ W3 JIS2004",
+		"language": "日本語",
+		"foundry": "大日本スクリーン製造",
 		"cssNames": [
 			"ヒラギノ角ゴ W3 JIS2004",
 			"Hiragino Kaku Gothic W3 JIS2004"
-		],
-		"fontName": "ヒラギノ角ゴ W3 JIS2004",
-		"foundry": "大日本スクリーン製造",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ヒラギノ角ゴ W6 JIS2004",
+		"language": "日本語",
+		"foundry": "大日本スクリーン製造",
 		"cssNames": [
 			"ヒラギノ角ゴ W6 JIS2004",
 			"Hiragino Kaku Gothic W6 JIS2004"
-		],
-		"fontName": "ヒラギノ角ゴ W6 JIS2004",
-		"foundry": "大日本スクリーン製造",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ヒラギノ角ゴ W8 JIS2004",
+		"language": "日本語",
+		"foundry": "大日本スクリーン製造",
 		"cssNames": [
 			"ヒラギノ角ゴ W8 JIS2004",
 			"Hiragino Kaku Gothic W8 JIS2004"
-		],
-		"fontName": "ヒラギノ角ゴ W8 JIS2004",
-		"foundry": "大日本スクリーン製造",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ヒラギノ丸ゴ W4 JIS2004",
+		"language": "日本語",
+		"foundry": "大日本スクリーン製造",
 		"cssNames": [
 			"ヒラギノ丸ゴ W4 JIS2004",
 			"Hiragino Maru Gothic W4 JIS2004"
-		],
-		"fontName": "ヒラギノ丸ゴ W4 JIS2004",
-		"foundry": "大日本スクリーン製造",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-Book （標準がな）",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-Book （標準がな）",
 			"HonMincho-Book"
-		],
-		"fontName": "本明朝-Book （標準がな）",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-Book 小がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-Book 小がな",
 			"HonMinKok-Book"
-		],
-		"fontName": "本明朝-Book 小がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-Book 新がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-Book 新がな",
 			"HonMinSink-Book"
-		],
-		"fontName": "本明朝-Book 新がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-Book 新小がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-Book 新小がな",
 			"HonMinSKok-Book"
-		],
-		"fontName": "本明朝-Book 新小がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-L （標準がな）",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-L （標準がな）",
 			"HonMincho-L"
-		],
-		"fontName": "本明朝-L （標準がな）",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-M （標準がな）",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-M （標準がな）",
 			"HonMincho-M"
-		],
-		"fontName": "本明朝-M （標準がな）",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-L 小がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-L 小がな",
 			"HonMinKok-L"
-		],
-		"fontName": "本明朝-L 小がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-M 小がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-M 小がな",
 			"HonMinKok-M"
-		],
-		"fontName": "本明朝-M 小がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-L 新がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-L 新がな",
 			"HonMinSink-L"
-		],
-		"fontName": "本明朝-L 新がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-M 新がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-M 新がな",
 			"HonMinSink-M"
-		],
-		"fontName": "本明朝-M 新がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-L 新小がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-L 新小がな",
 			"HonMinSKok-L"
-		],
-		"fontName": "本明朝-L 新小がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-M 新小がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-M 新小がな",
 			"HonMinSKok-M"
-		],
-		"fontName": "本明朝-M 新小がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-BII （標準がな）",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-BII （標準がな）",
 			"HonMincho-B"
-		],
-		"fontName": "本明朝-BII （標準がな）",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-EII （標準がな）",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-EII （標準がな）",
 			"HonMincho-E"
-		],
-		"fontName": "本明朝-EII （標準がな）",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-U （標準がな）",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-U （標準がな）",
 			"HonMincho-U"
-		],
-		"fontName": "本明朝-U （標準がな）",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-BII 新がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-BII 新がな",
 			"HonMinSink-B"
-		],
-		"fontName": "本明朝-BII 新がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-EII 新がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-EII 新がな",
 			"HonMinSink-E"
-		],
-		"fontName": "本明朝-EII 新がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-U 新がな",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-U 新がな",
 			"HonMinSink-U"
-		],
-		"fontName": "本明朝-U 新がな",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ナウ-MM",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"ナウ-MM",
 			"NOW-MM"
-		],
-		"fontName": "ナウ-MM",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ナウ-MB",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"ナウ-MB",
 			"NOW-MB"
-		],
-		"fontName": "ナウ-MB",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ナウ-ME",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"ナウ-ME",
 			"NOW-ME"
-		],
-		"fontName": "ナウ-ME",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ナウ-MU",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"ナウ-MU",
 			"NOW-MU"
-		],
-		"fontName": "ナウ-MU",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-Book （標準がな） JIS2004",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-Book （標準がな） JIS2004",
 			"HonMincho-Book JIS2004"
-		],
-		"fontName": "本明朝-Book （標準がな） JIS2004",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-Book 小がな JIS2004",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-Book 小がな JIS2004",
 			"HonMinKok-Book JIS2004"
-		],
-		"fontName": "本明朝-Book 小がな JIS2004",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-Book 新がな JIS2004",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-Book 新がな JIS2004",
 			"HonMinSink-Book JIS2004"
-		],
-		"fontName": "本明朝-Book 新がな JIS2004",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "本明朝-Book 新小がな JIS2004",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"本明朝-Book 新小がな JIS2004",
 			"HonMinSKok-Book JIS2004"
-		],
-		"fontName": "本明朝-Book 新小がな JIS2004",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ナウ-GM",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"ナウ-GM",
 			"NOW-GM"
-		],
-		"fontName": "ナウ-GM",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ナウ-GB",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"ナウ-GB",
 			"NOW-GB"
-		],
-		"fontName": "ナウ-GB",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ナウ-GE",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"ナウ-GE",
 			"NOW-GE"
-		],
-		"fontName": "ナウ-GE",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ナウ-GU",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"ナウ-GU",
 			"NOW-GU"
-		],
-		"fontName": "ナウ-GU",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "G2サンセリフ-B",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"G2サンセリフ-B",
 			"GSanSerif-B"
-		],
-		"fontName": "G2サンセリフ-B",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "G2サンセリフ-U",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"G2サンセリフ-U",
 			"GSanSerif-U"
-		],
-		"fontName": "G2サンセリフ-U",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ぶらっしゅ",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"ぶらっしゅ",
 			"Brush-U"
-		],
-		"fontName": "ぶらっしゅ",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "ぽっくる",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"ぽっくる",
 			"Pokkru-B"
-		],
-		"fontName": "ぽっくる",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "篠-M",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"篠-M",
 			"Shino-M"
-		],
-		"fontName": "篠-M",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "篠-B",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"篠-B",
 			"Shino-B"
-		],
-		"fontName": "篠-B",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "羽衣-M",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"羽衣-M",
 			"Hagoromo-M"
-		],
-		"fontName": "羽衣-M",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "羽衣-B",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"羽衣-B",
 			"Hagoromo-B"
-		],
-		"fontName": "羽衣-B",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TB古印体",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TB古印体",
 			"Kointai-M"
-		],
-		"fontName": "TB古印体",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "日活正楷書体",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"日活正楷書体",
 			"NikkatsuSeiKai-L"
-		],
-		"fontName": "日活正楷書体",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "花胡蝶-L",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"花胡蝶-L",
 			"HanaKocho-Lt"
-		],
-		"fontName": "花胡蝶-L",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "花胡蝶-M",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"花胡蝶-M",
 			"HanaKocho-Md"
-		],
-		"fontName": "花胡蝶-M",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "花胡蝶-B",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"花胡蝶-B",
 			"HanaKocho-Bd"
-		],
-		"fontName": "花胡蝶-B",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "花蓮華-L",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"花蓮華-L",
 			"HanaRenge-Lt"
-		],
-		"fontName": "花蓮華-L",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "花蓮華-M",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"花蓮華-M",
 			"HanaRenge-Md"
-		],
-		"fontName": "花蓮華-M",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "花蓮華-B",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"花蓮華-B",
 			"HanaRenge-Bd"
-		],
-		"fontName": "花蓮華-B",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "花牡丹-DB",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"花牡丹-DB",
 			"HanaBotan-DB"
-		],
-		"fontName": "花牡丹-DB",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUDゴシック SL",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUDゴシック SL",
 			"TBUDGothic SL"
-		],
-		"fontName": "TBUDゴシック SL",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUDゴシック R",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUDゴシック R",
 			"TBUDGothic R"
-		],
-		"fontName": "TBUDゴシック R",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUDゴシック B",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUDゴシック B",
 			"TBUDGothic B"
-		],
-		"fontName": "TBUDゴシック B",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUDゴシック E",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUDゴシック E",
 			"TBUDGothic E"
-		],
-		"fontName": "TBUDゴシック E",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUDゴシック H",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUDゴシック H",
 			"TBUDGothic H"
-		],
-		"fontName": "TBUDゴシック H",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUD丸ゴシック SL",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUD丸ゴシック SL",
 			"TBUDRGothic SL"
-		],
-		"fontName": "TBUD丸ゴシック SL",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUD丸ゴシック R",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUD丸ゴシック R",
 			"TBUDRGothic R"
-		],
-		"fontName": "TBUD丸ゴシック R",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUD丸ゴシック B",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUD丸ゴシック B",
 			"TBUDRGothic B"
-		],
-		"fontName": "TBUD丸ゴシック B",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUD丸ゴシック H",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUD丸ゴシック H",
 			"TBUDRGothic H"
-		],
-		"fontName": "TBUD丸ゴシック H",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUD明朝 M",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUD明朝 M",
 			"TBUDMincho M"
-		],
-		"fontName": "TBUD明朝 M",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "TBUD明朝 H",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"TBUD明朝 H",
 			"TBUDMincho H"
-		],
-		"fontName": "TBUD明朝 H",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UDタイポス58",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"UDタイポス58",
 			"UDTypos58"
-		],
-		"fontName": "UDタイポス58",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UDタイポス510",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"UDタイポス510",
 			"UDTypos510"
-		],
-		"fontName": "UDタイポス510",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UDタイポス512",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"UDタイポス512",
 			"UDTypos512"
-		],
-		"fontName": "UDタイポス512",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "UDタイポス515",
+		"language": "日本語",
+		"foundry": "タイプバンク",
 		"cssNames": [
 			"UDタイポス515",
 			"UDTypos515"
-		],
-		"fontName": "UDタイポス515",
-		"foundry": "タイプバンク",
-		"language": "日本語"
+		]
 	},
 	{
+		"fontName": "FB Agency Regular",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Agency Regular"
-		],
-		"fontName": "FB Agency Regular",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Agency Bold",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Agency Bold"
-		],
-		"fontName": "FB Agency Bold",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Agenda Medium Condensed",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Agenda Medium Condensed"
-		],
-		"fontName": "FB Agenda Medium Condensed",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Agenda Bold Condensed",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Agenda Bold Condensed"
-		],
-		"fontName": "FB Agenda Bold Condensed",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Benton Sans Book",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Benton Sans Book"
-		],
-		"fontName": "FB Benton Sans Book",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Benton Sans Regular",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Benton Sans Regular"
-		],
-		"fontName": "FB Benton Sans Regular",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Benton Sans Medium",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Benton Sans Medium"
-		],
-		"fontName": "FB Benton Sans Medium",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Benton Sans Bold",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Benton Sans Bold"
-		],
-		"fontName": "FB Benton Sans Bold",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Berlin Sans Roman",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Berlin Sans Roman"
-		],
-		"fontName": "FB Berlin Sans Roman",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Californian Text Roman",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Californian Text Roman"
-		],
-		"fontName": "FB Californian Text Roman",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Californian Text Italic",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Californian Text Italic"
-		],
-		"fontName": "FB Californian Text Italic",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Condor Regular",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Condor Regular"
-		],
-		"fontName": "FB Condor Regular",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Condor Bold",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Condor Bold"
-		],
-		"fontName": "FB Condor Bold",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Giza One Three",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Giza One Three"
-		],
-		"fontName": "FB Giza One Three",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Miller Display Light",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Miller Display Light"
-		],
-		"fontName": "FB Miller Display Light",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Miller Display Roman",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Miller Display Roman"
-		],
-		"fontName": "FB Miller Display Roman",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Miller Display Semibold",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Miller Display Semibold"
-		],
-		"fontName": "FB Miller Display Semibold",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Miller Display Bold",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Miller Display Bold"
-		],
-		"fontName": "FB Miller Display Bold",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Sloop Script One",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Sloop Script One"
-		],
-		"fontName": "FB Sloop Script One",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Sloop Script Two",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Sloop Script Two"
-		],
-		"fontName": "FB Sloop Script Two",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Sloop Script Three",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Sloop Script Three"
-		],
-		"fontName": "FB Sloop Script Three",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Shimano Square Light Narrow",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Shimano Square Light Narrow"
-		],
-		"fontName": "FB Shimano Square Light Narrow",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Vonness Light",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Vonness Light"
-		],
-		"fontName": "FB Vonness Light",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Vonness Book",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Vonness Book"
-		],
-		"fontName": "FB Vonness Book",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Vonness Medium",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Vonness Medium"
-		],
-		"fontName": "FB Vonness Medium",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Vonness Bold",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Vonness Bold"
-		],
-		"fontName": "FB Vonness Bold",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Ibis RE Regular",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Ibis RE Regular"
-		],
-		"fontName": "FB Ibis RE Regular",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB Ibis RE Italic",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB Ibis RE Italic"
-		],
-		"fontName": "FB Ibis RE Italic",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB PoynterSerif RE Regular",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB PoynterSerif RE Regular"
-		],
-		"fontName": "FB PoynterSerif RE Regular",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "FB PoynterSerif RE Italic",
+		"language": "欧文",
+		"foundry": "The Font Bureau, Inc.",
 		"cssNames": [
 			"FB PoynterSerif RE Italic"
-		],
-		"fontName": "FB PoynterSerif RE Italic",
-		"foundry": "The Font Bureau, Inc.",
-		"language": "欧文"
+		]
 	},
 	{
+		"fontName": "AR Ming B (文鼎粗明）",
+		"language": "中国語（繁体）",
+		"foundry": "ARPHIC",
 		"cssNames": [
 			"AR Ming B"
-		],
-		"fontName": "AR Ming B (文鼎粗明）",
-		"foundry": "ARPHIC",
-		"language": "中国語（繁体）"
+		]
 	},
 	{
+		"fontName": "AR Ming H (文鼎特明）",
+		"language": "中国語（繁体）",
+		"foundry": "ARPHIC",
 		"cssNames": [
 			"AR Ming H"
-		],
-		"fontName": "AR Ming H (文鼎特明）",
-		"foundry": "ARPHIC",
-		"language": "中国語（繁体）"
+		]
 	},
 	{
+		"fontName": "AR UDShuyuanhei M (文鼎UD書苑黑体）",
+		"language": "中国語（繁体）",
+		"foundry": "ARPHIC",
 		"cssNames": [
 			"AR UDShuyuanhei M"
-		],
-		"fontName": "AR UDShuyuanhei M (文鼎UD書苑黑体）",
-		"foundry": "ARPHIC",
-		"language": "中国語（繁体）"
+		]
 	},
 	{
+		"fontName": "AR Hei B (文鼎粗黑）",
+		"language": "中国語（繁体）",
+		"foundry": "ARPHIC",
 		"cssNames": [
 			"AR Hei B"
-		],
-		"fontName": "AR Hei B (文鼎粗黑）",
-		"foundry": "ARPHIC",
-		"language": "中国語（繁体）"
+		]
 	},
 	{
+		"fontName": "AR Hei H (文鼎特黑）",
+		"language": "中国語（繁体）",
+		"foundry": "ARPHIC",
 		"cssNames": [
 			"AR Hei H"
-		],
-		"fontName": "AR Hei H (文鼎特黑）",
-		"foundry": "ARPHIC",
-		"language": "中国語（繁体）"
+		]
 	},
 	{
+		"fontName": "AR Biaosong B (文鼎小標宋）",
+		"language": "中国語（簡体）",
+		"foundry": "ARPHIC",
 		"cssNames": [
 			"AR Biaosong B"
-		],
-		"fontName": "AR Biaosong B (文鼎小標宋）",
-		"foundry": "ARPHIC",
-		"language": "中国語（簡体）"
+		]
 	},
 	{
+		"fontName": "AR Dabiaosong H (文鼎大標宋）",
+		"language": "中国語（簡体）",
+		"foundry": "ARPHIC",
 		"cssNames": [
 			"AR Dabiaosong H"
-		],
-		"fontName": "AR Dabiaosong H (文鼎大標宋）",
-		"foundry": "ARPHIC",
-		"language": "中国語（簡体）"
+		]
 	},
 	{
+		"fontName": "HY ShuSongYiTi (漢儀書宋一体）",
+		"language": "中国語（簡体）",
+		"foundry": "HANYI",
 		"cssNames": [
 			"HY ShuSongYiTi"
-		],
-		"fontName": "HY ShuSongYiTi (漢儀書宋一体）",
-		"foundry": "HANYI",
-		"language": "中国語（簡体）"
+		]
 	},
 	{
+		"fontName": "HY ZhongSongTi (漢儀中宋体）",
+		"language": "中国語（簡体）",
+		"foundry": "HANYI",
 		"cssNames": [
 			"HY ZhongSongTi"
-		],
-		"fontName": "HY ZhongSongTi (漢儀中宋体）",
-		"foundry": "HANYI",
-		"language": "中国語（簡体）"
+		]
 	},
 	{
+		"fontName": "HY CuSongTi (漢儀粗宋体）",
+		"language": "中国語（簡体）",
+		"foundry": "HANYI",
 		"cssNames": [
 			"HY CuSongTi"
-		],
-		"fontName": "HY CuSongTi (漢儀粗宋体）",
-		"foundry": "HANYI",
-		"language": "中国語（簡体）"
+		]
 	},
 	{
+		"fontName": "AR Crystalhei DB (文鼎晶栩中粗黑）",
+		"language": "中国語（簡体）",
+		"foundry": "ARPHIC",
 		"cssNames": [
 			"AR Crystalhei DB"
-		],
-		"fontName": "AR Crystalhei DB (文鼎晶栩中粗黑）",
-		"foundry": "ARPHIC",
-		"language": "中国語（簡体）"
+		]
 	},
 	{
+		"fontName": "AR UDJingxihei DB (文鼎UD晶熙中粗黑）",
+		"language": "中国語（簡体）",
+		"foundry": "ARPHIC",
 		"cssNames": [
 			"AR UDJingxihei DB"
-		],
-		"fontName": "AR UDJingxihei DB (文鼎UD晶熙中粗黑）",
-		"foundry": "ARPHIC",
-		"language": "中国語（簡体）"
+		]
 	},
 	{
+		"fontName": "AR Newhei U (文鼎新特粗黑）",
+		"language": "中国語（簡体）",
+		"foundry": "ARPHIC",
 		"cssNames": [
 			"AR Newhei U"
-		],
-		"fontName": "AR Newhei U (文鼎新特粗黑）",
-		"foundry": "ARPHIC",
-		"language": "中国語（簡体）"
+		]
 	},
 	{
+		"fontName": "HY ZhongDengXianTi (漢儀中等線体)",
+		"language": "中国語（簡体）",
+		"foundry": "HANYI",
 		"cssNames": [
 			"HY ZhongDengXianTi"
-		],
-		"fontName": "HY ZhongDengXianTi (漢儀中等線体)",
-		"foundry": "HANYI",
-		"language": "中国語（簡体）"
+		]
 	},
 	{
+		"fontName": "HY DaHeiTi (漢儀大黒体)",
+		"language": "中国語（簡体）",
+		"foundry": "HANYI",
 		"cssNames": [
 			"HY DaHeiTi"
-		],
-		"fontName": "HY DaHeiTi (漢儀大黒体)",
-		"foundry": "HANYI",
-		"language": "中国語（簡体）"
+		]
 	},
 	{
+		"fontName": "SD Myungjo Light",
+		"language": "韓国語",
+		"foundry": "SANDOLL",
 		"cssNames": [
 			"SD Myungjo Light"
-		],
-		"fontName": "SD Myungjo Light",
-		"foundry": "SANDOLL",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "SD Myungjo Bold",
+		"language": "韓国語",
+		"foundry": "SANDOLL",
 		"cssNames": [
 			"SD Myungjo Bold"
-		],
-		"fontName": "SD Myungjo Bold",
-		"foundry": "SANDOLL",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "SD Gothic Neo1 Light",
+		"language": "韓国語",
+		"foundry": "SANDOLL",
 		"cssNames": [
 			"SD Gothic Neo1 Light"
-		],
-		"fontName": "SD Gothic Neo1 Light",
-		"foundry": "SANDOLL",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "SD Gothic Neo1 Medium",
+		"language": "韓国語",
+		"foundry": "SANDOLL",
 		"cssNames": [
 			"SD Gothic Neo1 Medium"
-		],
-		"fontName": "SD Gothic Neo1 Medium",
-		"foundry": "SANDOLL",
-		"language": "韓国語"
+		]
 	},
 	{
+		"fontName": "SD Gothic Neo1 ExtraBold",
+		"language": "韓国語",
+		"foundry": "SANDOLL",
 		"cssNames": [
 			"SD Gothic Neo1 ExtraBold"
-		],
-		"fontName": "SD Gothic Neo1 ExtraBold",
-		"foundry": "SANDOLL",
-		"language": "韓国語"
+		]
 	}
 ]
