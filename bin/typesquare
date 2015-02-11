@@ -1,0 +1,39 @@
+#!/usr/bin/env node
+
+var argv = require('yargs')
+  .options('e', {
+    alias: 'email',
+    required: true,
+    describe: 'TypeSquare account email address',
+  })
+  .options('p', {
+    alias: 'password',
+    required: true,
+    describe: 'TypeSquare account password',
+  })
+  .options('v', {
+    alias: 'verbose',
+    describe: 'Verbose output',
+    type: 'boolean',
+  })
+  .argv;
+
+var logger = require('log4js').getLogger('typesquare');
+
+if (argv.verbose) {
+  logger.setLevel('INFO');
+} else {
+  logger.setLevel('ERROR');
+}
+
+var typesquare = require('../script/typesquare');
+
+typesquare(argv.email, argv.password, null, function(err, fontProps) {
+  if (err) {
+    process.stderr.write(err.message + "\n");
+    process.exit(1);
+  } else {
+    console.log(JSON.stringify(fontProps, null, "\t"));
+    process.exit();
+  }
+});

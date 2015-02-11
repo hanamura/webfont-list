@@ -1,124 +1,94 @@
-var casper = require('casper').create();
+var client = require('cheerio-httpcli');
+var logger = require('log4js').getLogger('typesquare');
+var url    = require('url');
 
-// options
-// =======
+module.exports = function(email, password, options, done) {
 
-var email    = casper.cli.get('email');
-var password = casper.cli.get('password');
+  var fontProps = [];
 
-if (!email) {
-  casper.die('--email required');
-}
-if (!password) {
-  casper.die('--password required');
-}
+  client.fetch('https://typesquare.com/users/login')
 
-// callbacks
-// =========
+    // login
+    // =====
 
-var errorCodes = ['404', '500', '503'];
+    .then(function(res) {
+      logger.info('Logging in: ' + res.$.documentInfo().url);
 
-for (var i = 0; i < errorCodes.length; ++i) {
-  casper.on('http.status.' + errorCodes[i], function(res) {
-    this.die('Status ' + String(res.status) + ': ' + res.url);
-  });
-}
+      return res.$('#UserLoginForm').submit({
+        'data[User_authentication][mail_address]': email,
+        'data[User_authentication][password]':     password,
+      });
+    })
+    .then(function(res) {
+      return client.fetch('https://typesquare.com/member');
+    })
+    .then(function(res) {
+      logger.info('Checking login status: ' + res.$.documentInfo().url);
 
-// login
-// =====
+      var $ = res.$;
 
-casper.start('https://typesquare.com/users/login');
-
-casper.then(function() {
-  this.log('Login: ' + this.getCurrentUrl(), 'debug');
-
-  this.fillSelectors('#UserLoginForm', {
-    '#MailAddress': email,
-    '#Password':    password
-  }, true);
-});
-
-casper.then(function() {
-  if (this.getCurrentUrl() === 'https://typesquare.com/users/login') {
-    this.die('Login failed', 1);
-  }
-});
-
-// get font list
-// =============
-
-var fontProps = [];
-var collectFontProps;
-
-casper.thenOpen('https://typesquare.com/fontlist/fontlist/page:1/limit:100');
-
-casper.then(function collectFontProps() {
-  this.log('Collecting font info: ' + this.getCurrentUrl(), 'debug');
-
-  var html = this.evaluate(function() { return document.querySelector('html').innerHTML; });
-
-  // get font info
-  // -------------
-
-  var props = this.evaluate(function() {
-    var els = document.querySelectorAll('#font_sample_container>li');
-    if (!els.length) {
-      return [];
-    }
-
-    var props = [];
-    for (var i = 0; i < els.length; ++i) {
-      var el = els[i];
-
-      var h1   = el.querySelector('h1');
-      var meta = el.querySelectorAll('dl.meta dd');
-      var css  = el.querySelector('dl.example_css dd');
-
-      var prop = {};
-      prop.fontName = h1 ? h1.textContent.trim() : '';
-      prop.language = meta[0] ? meta[0].textContent.trim() : '';
-      prop.foundry  = meta[1] ? meta[1].textContent.trim() : '';
-      prop.cssNames = css
-                    ? css.textContent.trim()
-                      .replace(/^font-family:\s+/, '')
-                      .split('または')
-                      .map(function(x) { return x.trim(); })
-                    : [];
-      if (prop.fontName) {
-        props.push(prop);
+      var href = $('li.link_login a').attr('href');
+      if (!href || !~href.indexOf('/users/logout')) {
+        throw new Error('Login failed');
       }
-    }
-    return props;
-  });
+    })
 
-  fontProps.push.apply(fontProps, props);
+    // collect font props
+    // ==================
 
-  // get next url
-  // ------------
+    .then(function(res) {
+      return client.fetch('https://typesquare.com/fontlist/fontlist/page:1/limit:100');
+    })
+    .then(function collectFontProps(res) {
+      logger.info('Collecting font props: ' + res.$.documentInfo().url);
 
-  var url = this.evaluate(function() {
-    var el = document.querySelector('a.next');
-    if (!el) {
-      return null;
-    }
-    return el.href;
-  });
+      var $ = res.$;
 
-  // open next url
-  // -------------
+      // scrape
+      // ------
 
-  if (url) {
-    this.log('Opening next URL: ' + url, 'debug');
-    this.thenOpen(url);
-    this.then(collectFontProps);
-  }
-});
+      $('#font_sample_container>li').each(function() {
+        var h1   = $(this).find('h1');
+        var meta = $(this).find('dl.meta dd');
+        var css  = $(this).find('dl.example_css dd');
 
-// run
-// ===
+        var prop = {
+          fontName: h1.text() || '',
+          language: meta[0] ? $(meta[0]).text() : '',
+          foundry:  meta[1] ? $(meta[1]).text() : '',
+          cssNames: css ? css.text().trim()
+                          .replace(/^font-family:\s+/, '')
+                          .split('または')
+                          .map(function(x) { return x.trim(); })
+                        : [],
+        };
+        if (prop.fontName) {
+          fontProps.push(prop);
+        }
+      });
 
-casper.run(function() {
-  this.log('Done', 'debug');
-  this.echo(JSON.stringify(fontProps, null, "\t"));
-  this.exit();
-});
+      // next
+      // ----
+
+      var nextHref = $('a.next').attr('href');
+
+      if (nextHref) {
+        var nextUrl = url.resolve($.documentInfo().url, nextHref);
+
+        logger.info('Opening next URL: ' + nextUrl);
+
+        return client.fetch(nextUrl).then(collectFontProps);
+      }
+    })
+
+    // done
+    // ====
+
+    .then(function() {
+      done(null, fontProps);
+    })
+    .catch(function(err) {
+      done(err);
+    });
+
+};
