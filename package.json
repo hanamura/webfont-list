@@ -12,5 +12,6 @@
   "bin": {
     "typesquare": "./bin/typesquare",
     "fontplus": "./bin/fontplus"
-  }
+  },
+  "main": "index.js"
 }
